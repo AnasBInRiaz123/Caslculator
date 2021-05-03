@@ -1,0 +1,32 @@
+.main{
+    border: 4px Solid darkcyan;
+    width: 173px;
+    margin-left: 35%;
+    height: 235px;
+
+}
+.but{
+    width: 100%;
+}
+input{
+    width: 96%;
+    height: 30px;
+    background-color:rgb(90, 167, 160);
+    color: white;
+}
+input:hover{
+    background-color : cornsilk;
+    color: blue;
+
+}
+button{
+  height: 40px;
+  width: 40px;
+  border-radius: 8px;
+  background:  darkcyan;
+  color:white;
+}
+button:hover{
+    background-color:burlywood;
+    color: blue;
+}
